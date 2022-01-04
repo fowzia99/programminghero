@@ -13,16 +13,20 @@ h2 {
     font-size: 40;
     color: blue;
 }
+.P{ 
+text-align: left;
+text-size-adjust: 50px;
+}
 section{
     display: flex;
 }
 .half-width{
 width: 100px;
 }
-.half-width img {
+.full-width img {
     width: 100px;
     }
-    .half-width{
+    .full-width{
         padding-left: 5px;
         box-sizing: content-box;
     }
