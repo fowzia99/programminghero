@@ -1,0 +1,15 @@
+body{
+    font-family: 'Anton', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font color="#0000ff";
+}
+.orangered-color{
+    color: orangered;
+}
+h1{
+    color: red;
+ }
